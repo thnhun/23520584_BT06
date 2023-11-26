@@ -1,0 +1,3 @@
+﻿  Bai225.cpp
+C:\Users\Admin\Documents\BT06\Bai225\Bai225.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai225.vcxproj -> C:\Users\Admin\Documents\BT06\x64\Debug\Bai225.exe

@@ -1,0 +1,5 @@
+﻿  Bai191.cpp
+E:\Đệ quy\Bai191\Bai191.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đệ quy\Bai191\Bai191.cpp(29,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Đệ quy\Bai191\Bai191.cpp(32,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Bai191.vcxproj -> E:\Đệ quy\x64\Debug\Bai191.exe

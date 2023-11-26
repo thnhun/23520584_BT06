@@ -1,0 +1,3 @@
+﻿  Bai137.cpp
+E:\Đệ quy\Bai137\Bai137.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai137.vcxproj -> E:\Đệ quy\x64\Debug\Bai137.exe

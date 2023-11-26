@@ -1,0 +1,4 @@
+﻿  Bai269.cpp
+E:\Đệ quy\Bai269\Bai269.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đệ quy\Bai269\Bai269.cpp(33,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai269.vcxproj -> E:\Đệ quy\x64\Debug\Bai269.exe

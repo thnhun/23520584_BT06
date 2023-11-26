@@ -1,0 +1,4 @@
+﻿  Bai089.cpp
+E:\Đệ quy\Bai089\Bai089.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đệ quy\Bai089\Bai089.cpp(26,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai089.vcxproj -> E:\Đệ quy\x64\Debug\Bai089.exe
